@@ -12,7 +12,7 @@ Mendeteksi SYN Pocket Dari Pengguna Yang Mengakses Dan Bisa Juga Digunakan Untuk
    <li>UNZIP SYN-Tracker</li>
    <li>OPEN YOUR TERMINAL OR CMD</li>
    <li>type the command cd SYNTrack</li>
-   <li>after that type the command pip install -r /spec/requirements.txt</li>
+   <li>after that type the command pip install -r /src/requirements.txt</li>
    <li>Installation complete</li>
  </ol>
 <br>
