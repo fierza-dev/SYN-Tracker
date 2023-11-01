@@ -13,7 +13,7 @@ Tools Atau Alat Untuk Mendeteksi SYN Pocket Dari Pengguna Yang Mengakses Dan Bis
    <li>OPEN YOUR TERMINAL OR CMD</li>
    <li>type the command cd SYNTrack</li>
    <li>after that type the command pip install -r /spec/requirements.txt</li>
-   <li><Installation complete</li>
+   <li>Installation complete</li>
  </ol>
 <br>
  <b>How To Use??</b>
