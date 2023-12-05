@@ -1,7 +1,7 @@
 <img src="trackSYN.png">
 <br>
 <h2>SYN-Tracker</h2>
-Mendeteksi SYN Pocket Dari Pengguna Yang Mengakses Dan deteksi Serangan SYN Flood Attack
+Meonitoring SYN Pocket Dari Pengguna Yang Mengakses dan bisa juga untuk deteksi Serangan SYN Flood Attack
 <br><br>
  <b>Download SYN-Tracker :</b>
  <a href="https://fierza-dev.github.io/SYNTrack.zip" class="focus:outline-none text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mb-2  dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-900">Download Now</a>
